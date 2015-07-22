@@ -1,0 +1,6 @@
+base\configuration\MainController.class
+base\model\ServiceClass.class
+base\model\User.class
+base\configuration\MyConfig.class
+base\model\Address.class
+base\model\Customer.class
